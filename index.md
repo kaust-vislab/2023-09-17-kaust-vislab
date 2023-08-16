@@ -193,7 +193,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     as well as a stable internet connection. Optionally, they can use the following resource  <a href="https://mybinder.readthedocs.io/en/latest/">Binder</a> to run the code in the cloud.
   <p>
-  <strong> Registration: </strong> Please use this link to register for the workshop <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_fall_2023">here</a>
+  <strong> Registration: </strong> Please use this link to register for the workshop <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
   </p>
   {% else %}
     Participants must have access to a computer with a

@@ -9,10 +9,10 @@ country: "SA"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "22.307845"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "39.105472"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sep 03, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Sep 17, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "02:00 pm - 05:00 pm AST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2023-09-03      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2023-09-03        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2023-09-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2023-09-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Dr. Didier Barradas-Bautista", "TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: ["helper one", "helper two"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["help@vis.kaust.edu.sa","didier.barradasbautista@kaust.edu.sa"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -192,9 +192,9 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     as well as a stable internet connection. Optionally, they can use the following resource  <a href="https://mybinder.readthedocs.io/en/latest/">Binder</a> to run the code in the cloud.
-  <p>
+  <!-- <p>
   <strong> Registration: </strong> Please use this link to register for the workshop <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
-  </p>
+  </p> -->
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
@@ -287,6 +287,15 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 
 <hr/>
+<!-- {% comment %} -->
+
+<hr>
+<h2> Registration </h2>
+  <p>
+  <strong>Register</strong>  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
+  </p>
+</hr>
+<!-- {% endcomment %} -->
 
 {% comment%}
 CODE OF CONDUCT

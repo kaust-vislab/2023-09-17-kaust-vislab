@@ -290,20 +290,36 @@ Edit the text to match who can attend the workshop. For instance:
 <!-- {% comment %} -->
 
 <!-- <hr> -->
-<h2> Registration </h2>
+<!-- <h2> Registration </h2>
 
 <p class="text-center">
   <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">
     <button type="button" class="btn btn-info">Register here</button>
   </a>
 </p>
-<hr/>
+<hr/> -->
 
 <!-- <p>
   <strong>Register</strong>  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
 </p> -->
 <!-- </hr> -->
 <!-- {% endcomment %} -->
+
+{% comment%}
+CODE OF CONDUCT
+{% endcomment %}
+<h2 id="code-of-conduct">Code of Conduct</h2>
+
+<p>
+Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+</p>
+
+<p class="text-center">
+  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
+    <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
+  </a>
+</p>
+<hr/>
 
 {% comment%}
 CODE OF CONDUCT

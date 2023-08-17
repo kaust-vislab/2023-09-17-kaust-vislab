@@ -289,12 +289,20 @@ Edit the text to match who can attend the workshop. For instance:
 <hr/>
 <!-- {% comment %} -->
 
-<hr>
+<!-- <hr> -->
 <h2> Registration </h2>
-  <p>
+
+<p class="text-center">
+  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">
+    <button type="button" class="btn btn-info">Register here</button>
+  </a>
+</p>
+<hr/>
+
+<!-- <p>
   <strong>Register</strong>  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
-  </p>
-</hr>
+</p> -->
+<!-- </hr> -->
 <!-- {% endcomment %} -->
 
 {% comment%}

@@ -82,6 +82,20 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
+{% comment%}
+CODE OF CONDUCT
+{% endcomment %}
+<h2 id="code-of-conduct">Registration</h2>
+
+<p class="text-center">
+  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">
+    <button type="button" class="btn btn-info">Register here</button>
+  </a>
+</p>
+<hr/>
+
+
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -288,17 +302,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
-{% comment%}
-CODE OF CONDUCT
-{% endcomment %}
-<h2 id="code-of-conduct">Registration</h2>
 
-<p class="text-center">
-  <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">
-    <button type="button" class="btn btn-info">Register here</button>
-  </a>
-</p>
-<hr/>
 
 {% comment%}
 CODE OF CONDUCT

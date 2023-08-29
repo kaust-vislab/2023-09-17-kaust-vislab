@@ -206,9 +206,9 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     as well as a stable internet connection. Optionally, they can use the following resource  <a href="https://mybinder.readthedocs.io/en/latest/">Binder</a> to run the code in the cloud.
-  <!-- <p>
-  <strong> Registration: </strong> Please use this link to register for the workshop <a href="https://kaustforms.formstack.com/forms/intro_python_for_data_science_fall_2023_registration">here</a>
-  </p> -->
+  <p>
+  <strong> Binder for remote studentes: </strong> Click <a href="https://github.com/kaust-vislab/kvl-binder-serv-public.git">here</a>
+  </p>
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.

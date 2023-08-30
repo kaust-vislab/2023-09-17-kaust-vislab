@@ -207,7 +207,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     as well as a stable internet connection. Optionally, they can use the following resource  <a href="https://mybinder.readthedocs.io/en/latest/">Binder</a> to run the code in the cloud.
   <p>
-  <strong> Binder for remote studentes: </strong> Click <a href="https://github.com/kaust-vislab/kvl-binder-serv-public.git">here</a>
+  <strong> Binder for remote students: </strong> Click <a href="https://github.com/kaust-vislab/kvl-binder-serv-public.git">here</a>
   </p>
   {% else %}
     Participants must have access to a computer with a

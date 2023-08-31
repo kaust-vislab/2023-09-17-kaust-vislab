@@ -198,6 +198,7 @@ Modify the block below if there are any special requirements.
   </p>
     <!-- create a list of three items  -->
     <table class="table table-striped">
+      <tr> <td> <a href="https://classhub.kaust.edu.sa/course/ids/"> Classhub (Github account required) </a> </td> </tr>
       <tr> <td> <a href="https://jupyter.kaust.edu.sa/hub/login"> Jupyter hub </a> </td> </tr>
       <tr> <td> <a href="https://myws.kaust.edu.sa/" > Virtual machines </a> </td> </tr>
       <tr> <td> <a href="https://github.com/kaust-vislab/kvl-binder-serv"> Binder </a> </td> </tr>
